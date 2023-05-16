@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Ruiyin Li's Homepage"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+======
 
 I am a joint doctorate Ph.D. candidate in the Faculty of Science and Engineering at the University of Groningen ([RUG](https://en.wikipedia.org/wiki/University_of_Groningen), Groningen, the Netherlands) and School of Computer Science at the Wuhan University ([WHU](https://en.wikipedia.org/wiki/Wuhan_University), Wuhan, China). I'm currently working under the supervision of Prof. Dr. [Paris Avgeriou](https://www.cs.rug.nl/~paris/) and Prof. Dr. [Peng Liang](https://www.cs.rug.nl/search/People/PengLiang). 
 

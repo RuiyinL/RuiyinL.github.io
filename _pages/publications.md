@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Publications
+======
 - **Journal Articles**
   1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "Towards Automatic Identification of Violation Symptoms of Architecture Erosion: Experiments and Industrial Validation," (under review) *IEEE Transactions on Software Engineering*, 2023.
   1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "Warnings: Violation Symptoms Indicating Architecture Erosion," *arXiv:2212.12168*, 2022.
