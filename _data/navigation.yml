@@ -14,12 +14,12 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
   
   - title: "Services"
     url: /services/
 
+  - title: "CV"
+    url: /cv/
+  
   # - title: "Guide"
   #   url: /markdown/
