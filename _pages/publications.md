@@ -26,7 +26,7 @@ Publications
 
 
 - **Conference Proceedings**
-  1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "Code Reviewer Recommendation for Architecture Violations: An Exploratory Study," in *Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering (EASE)*, Oulu, Finland, 2023: ACM.
+  1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "Code Reviewer Recommendation for Architecture Violations: An Exploratory Study," in *Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering (EASE)*, Oulu, Finland, 2023, pp. 42-51: ACM.
   2. **Ruiyin Li**, Mohamed Soliman, Peng Liang and Paris Avgeriou, "Symptoms of architecture erosion in code reviews: A study of two OpenStack projects," in *Proceedings of the 19th IEEE International Conference on Software Architecture (ICSA)*, Honolulu, Hawaii, USA, 2022, pp. 24-35: IEEE.
   3. **Ruiyin Li**, Peng Liang, Mohamed Soliman and Paris Avgeriou, "Understanding architecture erosion: The practitioners' perceptive," in *Proceedings of the 29th IEEE/ACM International Conference on Program Comprehension (ICPC)*, Madrid, Spain, 2021, pp. 311-322: IEEE.
   4. **Ruiyin Li**, Peng Liang, Chen Yang, Georgios Digkas, Alexander Chatzigeorgiou and Zhuang Xiong, "Automatic identification of assumptions from the Hibernate developer mailing list," in *Proceedings of the 26th Asia-Pacific Software Engineering Conference (APSEC)*, Putrajaya, Malaysia, 2019, pp. 394-401: IEEE.
