@@ -18,7 +18,7 @@ author_profile: true
 Publications
 ======
 - **Journal Articles**
-  1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "Towards Automatic Identification of Violation Symptoms of Architecture Erosion: Experiments and Industrial Validation," (under review) *IEEE Transactions on Software Engineering*, 2023.
+  1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "Towards Automatic Identification of Violation Symptoms of Architecture Erosion," (under review) *IEEE Transactions on Software Engineering*, 2023.
   2. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "Warnings: Violation Symptoms Indicating Architecture Erosion," *arXiv:2212.12168*, 2022.
   3. **Ruiyin Li**, Peng Liang, Mohamed Soliman and Paris Avgeriou, "Understanding software architecture erosion: A systematic mapping study," *Journal of Software: Evolution and Process*, vol. 34, no. 3, p. e2423, 2022.
   4. Zifei Ma, **Ruiyin Li**, Tong Li, Rui Zhu, Rong Jiang, Juan Yang, Mingjing Tang and Ming Zheng, "A data-driven risk measurement model of software developer turnover," *Soft Computing*, vol. 24, no. 2, pp. 825-842, 2020.
