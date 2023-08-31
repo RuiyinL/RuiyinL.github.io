@@ -33,5 +33,5 @@ Academic Services
   - Journal of Computer Science and Technology (JCST)
 
 
-- **Program Committee**
-  - The 22nd Belgium-Netherlands Software Evolution (BENEVOL) Nijmegen, 27-28 November 2023.
+<!-- - **Program Committee**
+  - The 22nd Belgium-Netherlands Software Evolution (BENEVOL) Nijmegen, 27-28 November 2023. -->
