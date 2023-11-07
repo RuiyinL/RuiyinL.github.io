@@ -27,11 +27,12 @@ Education
 
 Awards
 ======
+<!-- - Excellent Student Award, Wuhan University, 2023 -->
+- Yangtze Power Scholarship, Wuhan University, 2023
 - Excellent Student Award, Wuhan University, 2022
 - Longhu Scholarship, Wuhan University, 2022
 - Excellent Student Award, Wuhan University, 2020
 - Academic Excellence Scholarship, Wuhan University, 2020
-- CSC Scholarship Winner, 2019
 - Academic Excellence Scholarship, Yunnan University, 2017
 
 
