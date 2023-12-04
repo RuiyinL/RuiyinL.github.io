@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science & Software Engineering
-  * University of Groningen (<a href="https://en.wikipedia.org/wiki/University_of_Groningen" target="_blank" rel="noopener noreferrer">RUG</a>), 2020 - present
-  * Wuhan University (<a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">WHU</a>), 2018 - present
+  * University of Groningen (<a href="https://en.wikipedia.org/wiki/University_of_Groningen" target="_blank" rel="noopener noreferrer">RUG</a>), 2020 - 2024
+  * Wuhan University (<a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">WHU</a>), 2018 - 2023
   * Supervisor: Prof. Dr. <a href="https://www.cs.rug.nl/~paris/" target="_blank" rel="noopener noreferrer">Paris Avgeriou</a> and Prof. Dr. <a href="https://www.cs.rug.nl/search/People/PengLiang" target="_blank" rel="noopener noreferrer">Peng Liang</a>
 
 * M.Sc. in Software Engineering
