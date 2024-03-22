@@ -27,7 +27,8 @@ Education
 
 Awards
 ======
-<!-- - Excellent Student Award, Wuhan University, 2023 -->
+
+- Excellent Student Award, Wuhan University, 2023
 - Yangtze Power Scholarship, Wuhan University, 2023
 - Excellent Student Award, Wuhan University, 2022
 - Longhu Scholarship, Wuhan University, 2022
