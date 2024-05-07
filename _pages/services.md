@@ -23,6 +23,7 @@ Academic Services
   - Software Engineering and Advanced Applications (SEAA)
   - International Conference on Technical Debt (TechDebt)
   - Asia-Pacific Symposium on Internetware (Internetware)
+  - Mining Software Repositories (MSR)
 
 
 - **Reviewer for Journals**
