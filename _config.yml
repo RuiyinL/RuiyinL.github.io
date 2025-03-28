@@ -83,11 +83,11 @@ author:
   name             : "Ruiyin Li"
   avatar           : "Photo.jpg"
   bio              : "Ph.D."
-  location         : "the Netherlands"
-  employer         : "RUG & WHU"
+  # location         : "the Netherlands"
+  employer         : "WHU & RUG"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0u18U-wAAAAJ&hl=en"
-  email            : "r.li[at]rug.nl"
+  email            : "ryli_cs@whu.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Ruiyin-Li"
   uri              :
   bitbucket        :
