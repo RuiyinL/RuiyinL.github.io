@@ -32,7 +32,9 @@ Academic Services
   - Empirical Software Engineering (EMSE)
   - Frontiers of Computer Science (FCS)
   - Journal of Computer Science and Technology (JCST)
+  - Software Quality Journal (SQJ)
 
 
 - **Program Committee**
   - The 21st International Conference on Mining Software Repositories (MSR), April 15-16, 2024, Lisbon, Portugal.
+  - The CCF ChinaSoft 2025, Nov 28-30, 2025, Wuhan, China.
