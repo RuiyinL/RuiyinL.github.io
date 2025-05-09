@@ -33,7 +33,7 @@ Education
 
 Awards
 ======
-- Hubei Province Talent Postdoc, 2024 (only around 100 people)
+- Hubei Provincial Talent Postdoctoral Fellow, 2024 (only around 100 people)
 - Young Talent Award, Wuhan Computer Software Engineering Association, 2024
 - Excellent Student Award, Wuhan University, 2023
 - Yangtze Power Scholarship, Wuhan University, 2023
