@@ -19,13 +19,15 @@ author_profile: true
 
 ## **Journal Papers**
 
+1. **Ruiyin Li**, Yiran Zhang, Xiyu Zhou, Peng Liang, Weisong Sun, Jifeng Xuan, Zhi Jin, and Yang Liu: "*MAAD: Automate Software Architecture Design through Knowledge-Driven Multi-Agent Collaboration*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2025.
+1. Mst Shamima Aktar, Peng Liang, Muhammad Waseem, Amjed Tahir, Mojtaba Shahin, Muhammad Azeem Akbar, Arif Ali Khan, Aakash Ahmad, Musengamana Jean de Dieu, and **Ruiyin Li***: "*Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2025.
 1. Xiyu Zhou, **Ruiyin Li***, Peng Liang, Beiqi Zhang, Mojtaba Shahin, Zengyang Li, Chen Yang, "*Using LLMs in Generating Design Rationale for Software Architecture Decisions*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2025.
 1. **Ruiyin Li**, Peng Liang, Yifei Wang, Yangxiao Cai, Weisong Sun and Zengyang Li, "*Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub*," (under review) *ACM Transactions on Software Engineering and Methodology*, 2025.
-2. **Ruiyin Li**, Peng Liang and Paris Avgeriou, “*Towards Automatic Identification of Violation Symptoms of Architecture Erosion*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2024.
-3. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "*Warnings: Violation Symptoms Indicating Architecture Erosion*," *Information and Software Technology*, vol. 164, p. 107319, 2023.
-4. **Ruiyin Li**, Peng Liang, Mohamed Soliman and Paris Avgeriou, "*Understanding software architecture erosion: A systematic mapping study*," *Journal of Software: Evolution and Process*, vol. 34, no. 3, p. e2423, 2022.
-5. Zifei Ma, **Ruiyin Li**, Tong Li, Rui Zhu, Rong Jiang, Juan Yang, Mingjing Tang and Ming Zheng, "*A data-driven risk measurement model of software developer turnover*," *Soft Computing*, vol. 24, no. 2, pp. 825-842, 2020.
-6. Zifei Ma, Rong Jiang, **Ruiyin Li**, Tong Li, Juan Yang and Qiujin Zhang, "*Study on Privacy Risk Measurement Model of Cloud Computing*," *Recent Patents on Computer Science*, vol. 10, no. 4, pp. 315-324, 2017.
+1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, “*Towards Automatic Identification of Violation Symptoms of Architecture Erosion*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2024.
+1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "*Warnings: Violation Symptoms Indicating Architecture Erosion*," *Information and Software Technology*, vol. 164, p. 107319, 2023.
+1. **Ruiyin Li**, Peng Liang, Mohamed Soliman and Paris Avgeriou, "*Understanding software architecture erosion: A systematic mapping study*," *Journal of Software: Evolution and Process*, vol. 34, no. 3, p. e2423, 2022.
+1. Zifei Ma, **Ruiyin Li**, Tong Li, Rui Zhu, Rong Jiang, Juan Yang, Mingjing Tang and Ming Zheng, "*A data-driven risk measurement model of software developer turnover*," *Soft Computing*, vol. 24, no. 2, pp. 825-842, 2020.
+1. Zifei Ma, Rong Jiang, **Ruiyin Li**, Tong Li, Juan Yang and Qiujin Zhang, "*Study on Privacy Risk Measurement Model of Cloud Computing*," *Recent Patents on Computer Science*, vol. 10, no. 4, pp. 315-324, 2017.
 
 
 ## **Conference Papers**

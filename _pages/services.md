@@ -13,7 +13,7 @@ Academic Services
 ======
 - **Reviewer for Conferences**
   - ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)
-  -  International Conference on Software Maintenance and Evolution (ICSME)
+  - International Conference on Software Maintenance and Evolution (ICSME)
   - International Conference on Program Comprehension (ICPC)
   - IEEE International Conference on Software Architecture (ICSA)
   - Evolution and Assessment in Software Engineering (EASE)
@@ -32,7 +32,9 @@ Academic Services
   - Empirical Software Engineering (EMSE)
   - Frontiers of Computer Science (FCS)
   - Journal of Computer Science and Technology (JCST)
+  - Automated Software Engineering Journal (ASEJ)
   - Software Quality Journal (SQJ)
+  - PLos One
 
 
 - **Program Committee**
