@@ -1,6 +1,7 @@
-# main links links
+# main links — `title_zh` 用于顶栏同一链接的中文书签（与英文同一 URL）
 main:
   - title: "Publications"
+    title_zh: "发表论文"
     url: /publications/
 
   # - title: "Talks"
@@ -16,9 +17,11 @@ main:
   #   url: /year-archive/
   
   - title: "Services"
+    title_zh: "学术服务"
     url: /services/
 
   - title: "CV"
+    title_zh: "简历"
     url: /cv/
   
   # - title: "Guide"

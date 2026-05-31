@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<div class="i18n-en-block" markdown="1">
+
 About Me
 ======
 
@@ -27,3 +29,25 @@ Research Interests
 Contact
 ------
 Email: ryli_cs **[at]** whu **[dot]** edu **[dot]** cn
+
+</div>
+
+<div class="i18n-zh-block" markdown="1">
+
+个人简介
+======
+
+武汉大学计算机学院博士后，格罗宁根大学（<a href="https://en.wikipedia.org/wiki/University_of_Groningen" target="_blank" rel="noopener noreferrer">RUG</a>，荷兰格罗宁根）与武汉大学（<a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">WHU</a>，中国武汉）软件工程双博士学位。研究聚焦软件工程问题，在 ICSE、ICPC、ICSA、EASE、APSEC 等国际会议及TOSEM、IST、JSEP等国际高水平期刊发表论文，主持1项国家自然科学青年基金（C类），参与多项国家级/省部级科研项目，目前的研究方向包括智能化软件工程、需求工程、软件体系结构等。欢迎与学界与业界同仁展开交流合作。
+
+研究方向
+======
+- 软件体系结构与设计
+- 挖掘软件仓库
+- 经验软件工程
+- 智能化软件工程
+
+联系方式
+------
+邮箱：ryli_cs **[at]** whu **[dot]** edu **[dot]** cn
+
+</div>

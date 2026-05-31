@@ -1,4 +1,9 @@
+.DS_Store
 _site/
-.gitignore
-Gemfile
-Gemfile.lock
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/bundle/
+
+# 本地备忘，不上传 GitHub
+README.local.zh-CN.md

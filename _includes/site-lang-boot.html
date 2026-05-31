@@ -1,0 +1,11 @@
+<script>
+(function () {
+  try {
+    if (localStorage.getItem("siteLang") === "zh") {
+      document.body.classList.remove("site-lang-en");
+      document.body.classList.add("site-lang-zh");
+      document.documentElement.setAttribute("lang", "zh-CN");
+    }
+  } catch (e) {}
+})();
+</script>

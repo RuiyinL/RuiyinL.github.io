@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruiyin Li"
+  name_zh          : "李瑞引"
   avatar           : "Photo.jpg"
   bio              : "Ph.D."
   # location         : "the Netherlands"
