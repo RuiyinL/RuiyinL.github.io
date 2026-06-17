@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include home-news.html %}
+
 <div class="i18n-en-block" markdown="1">
 
 About Me

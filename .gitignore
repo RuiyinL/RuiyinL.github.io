@@ -6,7 +6,7 @@ _site/
 vendor/bundle/
 
 # 本地备忘，不上传 GitHub
-README.local.zh-CN.md
+README（备忘录）.local.zh-CN.md
 
 # 本地 Ruby/Jekyll 环境，不上传 GitHub
 Gemfile

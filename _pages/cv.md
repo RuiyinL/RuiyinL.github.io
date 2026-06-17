@@ -50,6 +50,15 @@ Awards
 - Academic Excellence Scholarship, Yunnan University, 2017
 
 
+Grants & Projects
+======
+- National Natural Science Foundation of China (NSFC), Youth Fund (Type C), *LLM-driven Multi-source Architecture Erosion Symptom Identification and Repair*, Jan 2025 – Dec 2027, **PI**.
+- NSFC, Key Program, *Requirement-driven Trustworthy Construction and Evolution of Domain Software Assets*, Jan 2026 – Dec 2029, participant (sub-project lead).
+- NSFC, General Program, *Automated Architecture Decision Support for Continuous Delivery*, Jan 2022 – Dec 2025, participant.
+- Hubei Provincial Department of Science and Technology, Major Science and Technology Special Project (sub-project), *Interoperable Architecture and Intelligent Service Adaptation for Massive Multi-source Heterogeneous Data Fusion*, Sep 2024 – Sep 2027, participant.
+- Ministry of Science and Technology of China, National Key R&D Program (sub-project), *Theoretical Models and Computational Frameworks for Intelligent Service Adaptation*, Jul 2019 – Jun 2022, participant.
+
+
 <!-- Certifications
 ======
 - IBM SPSS Statistics and Modeler, 2015

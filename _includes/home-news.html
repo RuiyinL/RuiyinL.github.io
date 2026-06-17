@@ -1,0 +1,30 @@
+{% include base_path %}
+
+{% if site.data.news and site.data.news.size > 0 %}
+<section class="home-news">
+  <h2 class="home-news__heading">
+    <i class="fas fa-bullhorn home-news__icon" aria-hidden="true"></i>
+    <span class="i18n-en">News</span>
+    <span class="i18n-zh">动态</span>
+  </h2>
+  <ul class="home-news__list">
+    {% for item in site.data.news %}
+      <li class="home-news__item">
+        <span class="home-news__date">{{ item.date }}</span>
+        <span class="home-news__text">
+          {% if item.pub_link %}
+            {% capture pub_href %}{{ base_path }}/publications/#{{ item.pub_link }}{% endcapture %}
+            <a class="home-news__link" href="{{ pub_href }}">
+              <span class="i18n-en">{{ item.text_en }}</span>
+              <span class="i18n-zh">{{ item.text_zh }}</span>
+            </a>
+          {% else %}
+            <span class="i18n-en">{{ item.text_en }}</span>
+            <span class="i18n-zh">{{ item.text_zh }}</span>
+          {% endif %}
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
