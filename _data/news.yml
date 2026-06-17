@@ -1,20 +1,18 @@
 # 首页 News：按时间倒序；更新时在此文件顶部追加条目即可
 # pub_link 可选：对应 publications 页中的锚点 id，有则链到对应论文
-- date: "2025-11"
-  text_en: "Our co-authored paper on LLM vulnerability detection was accepted at ICSE 2026."
-  text_zh: "合作论文《Out of Distribution, Out of Luck...》被 ICSE 2026 接收。"
-  pub_link: "icse-2026-ood"
 
 - date: "2026-02"
   text_en: "Paper on ChatGPT in software development published in ACM TOSEM."
   text_zh: "ChatGPT与软件开发相关研究论文被 TOSEM 接收。"
   pub_link: "tosem-chatgpt-github"
 
-- date: "2025-05"
+- date: "2026-01"
+  text_en: "Our co-authored paper on LLM vulnerability detection was accepted at ICSE 2026."
+  text_zh: "合作论文《Out of Distribution, Out of Luck...》被 ICSE 2026 接收。"
+  pub_link: "icse-2026-ood"
+
+
+- date: "2025-12"
   text_en: "Paper on LLMs for software architecture design rationale published in ACM TOSEM."
   text_zh: "大模型生成软件体系结构设计原理的论文被 TOSEM 接收。"
   pub_link: "tosem-llm-design-rationale"
-
-
-
-
