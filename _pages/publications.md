@@ -21,11 +21,15 @@ author_profile: true
 
 ## **Journal Papers**
 
-1. Syed Mohammad Kashif, **Ruiyin Li\***, Peng Liang, Amjed Tahir, Qiong Feng, Zengyang Li, Mojtaba Shahin: "*Beyond Functional Correctness: Design Issues in AI IDE-Generated Large-Scale Projects*," (under review) *ACM Transactions on Software Engineering and Methodology*, 2026. [[<u>PDF</u>]()]
+1. Yue Wu, Minghao Han, **Ruiyin Li\***, Peng Liang, Amjed Tahir, Zengyang Li, Qiong Feng, and Mojtaba Shahin: "*FasterPy: An LLM-based Code Execution Efficiency Optimization Framework*," (under review) *ACM Transactions on Software Engineering and Methodology*, 2026. [[<u>PDF</u>](https://arxiv.org/abs/2512.22827)]
 
-1. Musengamana Jean de Dieu, **Ruiyin Li\***, Peng Liang, Mojtaba Shahin, Muhammad Waseem, Arif Ali Khan, Bangchao Wang, and Mst Shamima Aktar: "*ArchISMiner: A Framework for Automatic Mining of Architectural Issue-Solution Pairs from Online Developer Communities*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2025. [[<u>PDF</u>](https://arxiv.org/abs/2510.21966)]
+1. Guangzong Cai, **Ruiyin Li\***, Peng Liang, Zengyang Li, and Mojtaba Shahin: "*Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study*“, Transactions on Software Engineering and Methodology," (under review) *ACM Transactions on Software Engineering and Methodology*, 2026. [[<u>PDF</u>](https://arxiv.org/abs/2606.12231)]
+
+1. Syed Mohammad Kashif, **Ruiyin Li\***, Peng Liang, Amjed Tahir, Qiong Feng, Zengyang Li, Mojtaba Shahin: "*Beyond Functional Correctness: Design Issues in AI IDE-Generated Large-Scale Projects*," (under review) *ACM Transactions on Software Engineering and Methodology*, 2026. [[<u>PDF</u>](https://arxiv.org/abs/2604.06373)]
+
+1. Musengamana Jean de Dieu, **Ruiyin Li\***, Peng Liang, Mojtaba Shahin, Muhammad Waseem, Arif Ali Khan, Bangchao Wang, and Mst Shamima Aktar: "*ArchISMiner: A Framework for Automatic Mining of Architectural Issue-Solution Pairs from Online Developer Communities*,” (under review) *Empirical Software Engineering*, 2025. [[<u>PDF</u>](https://arxiv.org/abs/2510.21966)]
    
-1. **Ruiyin Li**, Yiran Zhang, Xiyu Zhou, Peng Liang, Weisong Sun, Jifeng Xuan, Zhi Jin, and Yang Liu: "*MAAD: Automate Software Architecture Design through Knowledge-Driven Multi-Agent Collaboration*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2025. [[<u>PDF</u>](https://arxiv.org/abs/2507.21382)]
+1. **Ruiyin Li**, Yiran Zhang, Xiyu Zhou, Yangxiao Cai, Peng Liang, Weisong Sun, Jifeng Xuan, Zhi Jin, and Yang Liu: "*Bridging Requirements and Architecture: Multi-Agent Orchestration with External Knowledge and Hierarchical Memory*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2026. [[<u>PDF</u>]( )]
    
 1. Mst Shamima Aktar, Peng Liang, Muhammad Waseem, Amjed Tahir, Mojtaba Shahin, Muhammad Azeem Akbar, Arif Ali Khan, Aakash Ahmad, Musengamana Jean de Dieu, and **Ruiyin Li\***: "*Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2025. [[<u>PDF</u>](https://arxiv.org/abs/2507.11671)]
    
@@ -33,7 +37,7 @@ author_profile: true
    
 1. **Ruiyin Li**, Peng Liang, Yifei Wang, Yangxiao Cai, Weisong Sun and Zengyang Li, "*Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub*," *ACM Transactions on Software Engineering and Methodology*, 2026. [[<u>PDF</u>](https://dl.acm.org/doi/10.1145/3798163)]  (<font color=Blue>JCR-1, CCF-A</font>)
    
-1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, “*Towards Automatic Identification of Violation Symptoms of Architecture Erosion*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2024. [[<u>PDF</u>]()]
+1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, “*Towards Automatic Identification of Violation Symptoms of Architecture Erosion*,” (under review) *ACM Transactions on Software Engineering and Methodology*, 2025. [[<u>PDF</u>]()]
    
 1. **Ruiyin Li**, Peng Liang and Paris Avgeriou, "*Warnings: Violation Symptoms Indicating Architecture Erosion*," *Information and Software Technology*, vol. 164, p. 107319, 2023. [[<u>PDF</u>](https://www.sciencedirect.com/science/article/abs/pii/S095058492300174X)] (<font color=Blue>JCR-1, CCF-B</font>)
    
