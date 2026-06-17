@@ -13,7 +13,7 @@ redirect_from:
 
 Work
 ======
-- Postdoc (April 2024 - Present), Wuhan University (<a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">WHU</a>), China.
+- Postdoc (April 2024 - Present), Wuhan University (<a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">WHU</a>), China. ("Hongyi Postdoctoral")
 
 
 Education
@@ -61,7 +61,7 @@ Awards
 
 工作经历
 ======
-- 博士后（2024年4月 – 至今），武汉大学（<a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">WHU</a>），中国。
+- “弘毅” 博士后（2024年4月 – 至今），武汉大学（<a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">WHU</a>），中国。
 
 
 教育背景
@@ -89,8 +89,8 @@ Awards
 - 国家自然科学基金委员会，青年基金（C类），大模型驱动的多数据源软件体系结构腐化征兆识别与修复，2025-01 至 2027-12，**主持**.
 - 国家自然科学基金委员会，重点项目，基于领域软件资产的需求驱动软件高可信构造与演化，2026-01 至 2029-12，参与（子课题负责人）.
 - 国家自然科学基金委员会，面上项目，面向持续交付的自动化辅助软件体系结构决策方法研究，2022-01 至 2025-12，参与.
-- 国家科技部，国家重点研发计划子课题，智能服务适配理论模型和计算框架，2019-07 至 2022-06，参与.
 - 湖北省科学技术厅，重大科技专项子课题，面向海量多源异构数据融合的互操作架构与智能服务适配，2024-09 至 2027-09，参与.
+- 国家科技部，国家重点研发计划子课题，智能服务适配理论模型和计算框架，2019-07 至 2022-06，参与.
 
 
 <!-- 证书
